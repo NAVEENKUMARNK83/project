@@ -1,4 +1,4 @@
-Class Man
+Class Demo
 {
 	public static void main(string args[])
 	{
